@@ -1,2 +1,2 @@
-# BotToby
-git clone https://github.com/T0byG74/BotToby
+# Botozy
+git clone https://github.com/Gendjex/Botozy
