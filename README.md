@@ -1,0 +1,2 @@
+# Bot
+Self Bot Protect
